@@ -1,0 +1,14 @@
+{
+  "bonus_chest": true,
+  "generate_features": true,
+  "type": "skyblock:the_end",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 0,
+    "settings": "skyblock:floating_islands",
+    "biome_source": {
+      "type": "minecraft:the_end",
+      "seed": 0
+    }
+  }
+}
